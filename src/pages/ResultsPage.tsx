@@ -1,4 +1,4 @@
-
+import React from 'react';
 export default function ResultsPage() {
     return (
         <div className="bg-white w-screen flex flex-col h-screen items-center">
