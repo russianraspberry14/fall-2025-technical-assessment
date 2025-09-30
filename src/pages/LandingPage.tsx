@@ -1,4 +1,3 @@
-import React from 'react';
 export default function LandingPage() {
     return (
         <div className="w-screen h-screen flex flex-col bg-white">
